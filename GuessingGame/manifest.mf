@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: uk.co.silicontek.game
+OpenIDE-Module-Localizing-Bundle: uk/co/silicontek/game/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
